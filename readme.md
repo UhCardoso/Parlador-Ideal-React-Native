@@ -11,17 +11,17 @@ Essa aplicação consome a API desenvolvida em outro projeto. Para acessar o rep
     - 3.2 Testando aplicação no android
 
 ## 1 - SOBRE O PROJETO
- O Parlador Ideal, consiste em um projeto de Software,  que visa facilitar a troca de ideias libertárias do grupo em questão. Precisamos construir uma prova de conceito o mais breve possível para concluir a venda do projeto. Para contruir o software foram usadas tecnologias de Frontend e Backend.
+ O Parlador Ideal, consiste em um projeto de Software,  que visa facilitar a troca de ideias libertárias do grupo em questão. Então foi criado um software de blog para que as pessoas do grupo possam compartilhar suas ideias. Para contruir o software foram usadas tecnologias de Frontend e Backend.
 <div style="text-align: center;">   
     <img src="https://firebasestorage.googleapis.com/v0/b/werlen-dev.appspot.com/o/projects%2Freadmes%2Fparlador%20ideal%2Fapplogin.jpg?alt=media&token=25243eed-e669-40a4-bd35-e2a46e16f316" heigth="200" width="200">
 </div>
 
-Neste repositório, detalhei o passo a passo para configurar o projeto, no qual consiste em uma aplicação ReactNative usando a ferramente Expo.
+Neste repositório, detalhei o passo a passo para configurar o projeto, no qual consiste em uma aplicação React Native usando a ferramenta Expo.
 
 ## 2 - PREPARANDO AMBIENTE PARA EXECUTAR APLICATIVO
 Antes de iniciarmos, verifique se você tem o [NodeJS](https://nodejs.org/en/download) instalado em seu computador.
 
-Para executarmos o palicativo, sem muitas dificuldades, vamos executar a ferramenta expo no nosso computador e em seguida baixar o aplicativo Expo diponível na Play Store para rodarmos o projeto no nosso dispositívo físico, ou você pode executar o emulator android caso você tenha o SDK instalado na sua máquina. Após tudo isso vamos baixar o repositório GitHub do nosso projeto. Siga o passo a passo abaixo:
+Para executarmos o aplicativo, sem muitas dificuldades, vamos executar a ferramenta expo no nosso computador e em seguida baixar o aplicativo Expo diponível na Play Store para rodarmos o projeto no nosso dispositívo físico, ou você pode executar o emulator android caso você tenha o SDK instalado na sua máquina. Após tudo isso vamos baixar o repositório GitHub do nosso projeto. Siga o passo a passo abaixo:
 
 ### 2.1 Instalando Expo no computador
 Abra o prompt cmd, dê o comando e aguarde a instalação:
