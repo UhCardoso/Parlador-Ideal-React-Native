@@ -82,7 +82,7 @@ E veja qual o ip da sua máquina, para configurarmos o arquivo de conexão com a
 
 Vá até o arquivo "```api.ts```" no caminho "```src\services```" do nosso projeto e abra-o.
 
-Na opção "```BaseURL```" cole o endereço IP do seu computador e apósos dois pontos, coloque a porta ```8989``` que foi a porta da API Laravel configurada [neste outro repositório](https://github.com/UhCardoso/API-Parlador-Ideal). Veja o exemplo da rota abaixo:
+Na opção "```BaseURL```" cole o endereço IP do seu computador e após os dois pontos, coloque a porta ```8989``` que foi a porta da API Laravel configurada [neste outro repositório](https://github.com/UhCardoso/API-Parlador-Ideal). Veja o exemplo da rota abaixo:
 <div>   
     <img src="https://firebasestorage.googleapis.com/v0/b/werlen-dev.appspot.com/o/projects%2Freadmes%2Fparlador%20ideal%2Fconfapi.png?alt=media&token=db165bb1-5834-4939-bacb-bcf9274ee5d6" heigth="400" width="400">
 </div>
