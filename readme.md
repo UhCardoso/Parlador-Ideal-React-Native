@@ -1,14 +1,19 @@
 # Aplicativo Android Parlador ideal
 Essa aplicação consome a API desenvolvida em outro projeto. Para acessar o repositório da API Parlador Ideal [clique aqui](https://github.com/UhCardoso/API-Parlador-Ideal)
+
+<div id="0" />
+
 # ÍNDICE
-1. SOBRE O PROJETO
-2. PREPARANDO AMBIENTE PARA EXECUTAR APLICATIVO
-    - 2.1 Instalando Expo no computador
-    - 2.2 Testando aplicativo no dispositivo físico (recomendado)
-    - 2.3 Testando aplicativo no emulador (opcional)
-3. RODANDO APLICAÇÃO PARLADOR IDEAL
-    - 3.1 Baixando repositório GitHub
-    - 3.2 Testando aplicação no android
+1. [SOBRE O PROJETO](#1)
+2. [PREPARANDO AMBIENTE PARA EXECUTAR APLICATIVO](#2)
+    - 2.1 [Instalando Expo no computador](#21)
+    - 2.2 [Testando aplicativo no dispositivo físico (recomendado)](#22)
+    - 2.3 [Testando aplicativo no emulador (opcional)](#23)
+3. [RODANDO APLICAÇÃO PARLADOR IDEAL](#3)
+    - 3.1 [Baixando repositório GitHub](#31)
+    - 3.2 [Testando aplicação no android](#32)
+
+<div id="1" />
 
 ## 1 - SOBRE O PROJETO
  O Parlador Ideal, consiste em um projeto de Software,  que visa facilitar a troca de ideias libertárias do grupo em questão. Então foi criado um software de blog para que as pessoas do grupo possam compartilhar suas ideias. Para contruir o software foram usadas tecnologias de Frontend e Backend.
@@ -18,21 +23,38 @@ Essa aplicação consome a API desenvolvida em outro projeto. Para acessar o rep
 
 Neste repositório, detalhei o passo a passo para configurar o projeto, no qual consiste em uma aplicação React Native usando a ferramenta Expo.
 
+[Voltar ao índice](#0)
+
+<div id="2" />
+
 ## 2 - PREPARANDO AMBIENTE PARA EXECUTAR APLICATIVO
 Antes de iniciarmos, verifique se você tem o [NodeJS](https://nodejs.org/en/download) instalado em seu computador.
 
 Para executarmos o aplicativo, sem muitas dificuldades, vamos executar a ferramenta expo no nosso computador e em seguida baixar o aplicativo Expo diponível na Play Store para rodarmos o projeto no nosso dispositívo físico, ou você pode executar o emulator android caso você tenha o SDK instalado na sua máquina. Após tudo isso vamos baixar o repositório GitHub do nosso projeto. Siga o passo a passo abaixo:
+
+[Voltar ao índice](#0)
+
+<div id="21" />
 
 ### 2.1 Instalando Expo no computador
 Abra o prompt cmd, dê o comando e aguarde a instalação:
 ```
 npm install --global expo-cli
 ```
+
+[Voltar ao índice](#0)
+
+<div id="22" />
+
 ### 2.2 Testando aplicativo no dispositivo físico (recomendado)
 Entre na Play Store e baixe o aplicativo Expo para rodarmos e testarmos nossa aplicação no dispositivo físico.
 <div>   
     <img src="https://firebasestorage.googleapis.com/v0/b/werlen-dev.appspot.com/o/projects%2Freadmes%2Fparlador%20ideal%2Fexpo.jpg?alt=media&token=67c7be3b-7b41-4362-8c3a-8a91659e03b9" heigth="200" width="200">
 </div>
+
+[Voltar ao índice](#0)
+
+<div id="23" />
 
 ### 2.3 Testando aplicativo no emulador (opcional)
 Caso você tenha um emulador android baixado em seu computador e prefira executar a aplicação nele, você pode executar o seguinte comando:
@@ -49,8 +71,17 @@ Execute o comando abaixo para executar o emulador android:
 emulator -avd nome-do-emulador
 ```
 
+[Voltar ao índice](#0)
+
+<div id="3" />
+
 ## 3 - RODANDO APLICAÇÃO PARLADOR IDEAL
 Agora vamos rodar nossa aplicação no Android para testarmos as funcionalidades dela.
+
+[Voltar ao índice](#0)
+
+<div id="31" />
+
 ### 3.1 Baixando repositório GitHub
 Execute o comando abaixo no prompt para baixar o repositório:
 ```
@@ -67,6 +98,10 @@ Agora dê o comando para instalar as dependências do projeto:
 ```
 npm install
 ```
+
+[Voltar ao índice](#0)
+
+<div id="32" />
 
 ### 3.2 Testando aplicação no android
 Vamos testar o Parlador Ideal na aplicação android.
@@ -95,6 +130,10 @@ npx expo start
 Ao terminar de executar o comando, você poderá ler o QRcode através do seu aplicativo Expo (instalado na Play Store) para abrir a aplicação em seu dispositivo físico.
 
 Ou você pode clicar na letra "```A```" do teclado para iniciar a instalação do aplicativo em seu emulador android no computador.
+
+[Voltar ao índice](#0)
+
+<div id="4" />
 
 ## 4 - Resultados da aplicação
 - Tela inicial
@@ -131,3 +170,5 @@ Ou você pode clicar na letra "```A```" do teclado para iniciar a instalação d
 <div>   
     <img src="https://firebasestorage.googleapis.com/v0/b/werlen-dev.appspot.com/o/projects%2Freadmes%2Fparlador%20ideal%2Fexcluir.jpg?alt=media&token=c35f279b-d1e5-44d8-9fe3-44dfd8a11178" heigth="200" width="200">
 </div><br><Br>
+
+[Voltar ao índice](#0)
