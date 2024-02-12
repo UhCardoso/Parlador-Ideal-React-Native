@@ -54,12 +54,12 @@ Agora vamos rodar nossa aplicação no Android para testarmos as funcionalodades
 ### 3.1 Baixando repositório GitHub
 Execute o comando abaixo no prompt para baixar o repositório:
 ```
-git clone {site do projeto}
+git clone https://github.com/UhCardoso/Parlador-Ideal-React-Native.git
 ```
 
 Entre na pasta do projeto:
 ```
-cd parrr
+cd Parlador-Ideal-React-Native
 ```
 
 Agora dê o comando para instalar as dependências do projeto:
