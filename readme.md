@@ -1,4 +1,5 @@
 # Aplicativo Android Parlador ideal
+Essa aplicação consome a API desenvolvida em outro projeto. Para acessar o repositório da API Parlador Ideal [clique aqui](https://github.com/UhCardoso/API-Parlador-Ideal/blob/main/readme.md)
 # ÍNDICE
 - 1. SOBRE O PROJETO
 - 2. PREPARANDO AMBIENTE PARA EXECUTAR APLICATIVO
