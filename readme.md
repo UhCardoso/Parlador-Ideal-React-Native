@@ -1,12 +1,12 @@
 # Aplicativo Android Parlador ideal
 Essa aplicação consome a API desenvolvida em outro projeto. Para acessar o repositório da API Parlador Ideal [clique aqui](https://github.com/UhCardoso/API-Parlador-Ideal)
 # ÍNDICE
-- 1. SOBRE O PROJETO
-- 2. PREPARANDO AMBIENTE PARA EXECUTAR APLICATIVO
-    - 2.1. Instalando Expo no computador
+1. SOBRE O PROJETO
+2. PREPARANDO AMBIENTE PARA EXECUTAR APLICATIVO
+    - 2.1 Instalando Expo no computador
     - 2.2 Testando aplicativo no dispositivo físico (recomendado)
     - 2.3 Testando aplicativo no emulador (opcional)
-- 3. RODANDO APLICAÇÃO PARLADOR IDEAL
+3. RODANDO APLICAÇÃO PARLADOR IDEAL
     - 3.1 Baixando repositório GitHub
     - 3.2 Testando aplicação no android
 
