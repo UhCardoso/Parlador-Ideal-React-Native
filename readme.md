@@ -37,7 +37,7 @@ Entre na Play Store e baixe o aplicativo Expo para rodarmos e testarmos nossa ap
 ### 2.3 Executando emulador
 Caso você tenha um emulador android baixado em seu computador e prefira executar a aplicação nele, você pode executar o seguinte comando:
 ```
-C:\Users\<seu usuário>\AppData\Local\Android\Sdk\emulator
+cd C:\Users\<seu usuário>\AppData\Local\Android\Sdk\emulator
 ```
 Execute o comando abaixo para ver os emuladores disponíveis:
 ```
@@ -50,7 +50,7 @@ emulator -avd nome-do-emulador
 ```
 
 ## 3 - RODANDO APLICAÇÃO PARLADOR IDEAL
-Agora vamos rodar nossa aplicação no Android para testarmos as funcionalodades dela.
+Agora vamos rodar nossa aplicação no Android para testarmos as funcionalidades dela.
 ### 3.1 Baixando repositório GitHub
 Execute o comando abaixo no prompt para baixar o repositório:
 ```
@@ -80,9 +80,9 @@ E veja qual o ip da sua máquina, para configurarmos o arquivo de conexão com a
     <img src="https://firebasestorage.googleapis.com/v0/b/werlen-dev.appspot.com/o/projects%2Freadmes%2Fparlador%20ideal%2Fip.png?alt=media&token=acf78d96-186d-42ae-a802-2eb91ffd5645" heigth="600" width="600">
 </div>
 
-Vá até o arquivo "api.ts" no caminho "src\services" do nosso projeto e abra-o.
+Vá até o arquivo "```api.ts```" no caminho "```src\services```" do nosso projeto e abra-o.
 
-Na opção "BaseURL" cole o endereço IP do seu computador na porta 8989, como no exemplo abaixo:
+Na opção "```BaseURL```" cole o endereço IP do seu computador e apósos dois pontos, coloque a porta ```8989```, como no exemplo abaixo:
 <div>   
     <img src="https://firebasestorage.googleapis.com/v0/b/werlen-dev.appspot.com/o/projects%2Freadmes%2Fparlador%20ideal%2Fconfapi.png?alt=media&token=db165bb1-5834-4939-bacb-bcf9274ee5d6" heigth="400" width="400">
 </div>
@@ -94,7 +94,7 @@ npx expo start
 
 Ao terminar de executar o comando, você poderá ler o QRcode através do seu aplicativo Expo (instalado na Play Store) para abrir a aplicação em seu dispositivo físico.
 
-Ou você pode clicar na letra "A" do teclado para iniciar a instalação do aplicativo em seu emulador android no computador.
+Ou você pode clicar na letra "```A```" do teclado para iniciar a instalação do aplicativo em seu emulador android no computador.
 
 ## 4 - Resultados da aplicação
 - Tela inicial
