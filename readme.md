@@ -4,8 +4,8 @@ Essa aplicação consome a API desenvolvida em outro projeto. Para acessar o rep
 - 1. SOBRE O PROJETO
 - 2. PREPARANDO AMBIENTE PARA EXECUTAR APLICATIVO
     - 2.1. Instalando Expo no computador
-    - 2.2 Baixando Expo da PlayStore
-    - 2.3 Executando emulador
+    - 2.2 Testando aplicativo no dispositivo físico (recomendado)
+    - 2.3 Testando aplicativo no emulador (opcional)
 - 3. RODANDO APLICAÇÃO PARLADOR IDEAL
     - 3.1 Baixando repositório GitHub
     - 3.2 Testando aplicação no android
@@ -28,13 +28,13 @@ Abra o prompt cmd, dê o comando e aguarde a instalação:
 ```
 npm install --global expo-cli
 ```
-### 2.2 Baixando Expo da PlayStore
+### 2.2 Testando aplicativo no dispositivo físico (recomendado)
 Entre na Play Store e baixe o aplicativo Expo para rodarmos e testarmos nossa aplicação no dispositivo físico.
 <div>   
     <img src="https://firebasestorage.googleapis.com/v0/b/werlen-dev.appspot.com/o/projects%2Freadmes%2Fparlador%20ideal%2Fexpo.jpg?alt=media&token=67c7be3b-7b41-4362-8c3a-8a91659e03b9" heigth="200" width="200">
 </div>
 
-### 2.3 Executando emulador
+### 2.3 Testando aplicativo no emulador (opcional)
 Caso você tenha um emulador android baixado em seu computador e prefira executar a aplicação nele, você pode executar o seguinte comando:
 ```
 cd C:\Users\<seu usuário>\AppData\Local\Android\Sdk\emulator
